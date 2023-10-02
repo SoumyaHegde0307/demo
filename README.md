@@ -1,2 +1,2 @@
 # demo
-demo example on git and github
+demo example on git and github class.
